@@ -16,5 +16,5 @@ repository is enormous.
 The command to place in `packages.el` is:
 
 ```elisp
-(package! dired+ :recipe (:host github :repo "docbiz/dired-plus"))
+(package! dired+ :recipe (:host github :repo "adamroyjones/dired-plus"))
 ```
